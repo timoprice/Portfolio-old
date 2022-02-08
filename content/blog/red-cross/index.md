@@ -63,6 +63,6 @@ Replatforming to AEM thus provided the perfect to redesign the way the Red Cross
 
 # Deliverables
 
-[test](../test/index.md)
+[test](../red-cross/test/index.md)
 
 © Timothy Price, PhD MBA
