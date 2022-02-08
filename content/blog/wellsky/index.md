@@ -48,7 +48,7 @@ The team wanted to test the participants' ability of participants to
 
 # Conclusion
 
-![Takeaways](./takeaways.png)
+![Conclusion](./recommendations.png)
 
 
 ## Business Impact
