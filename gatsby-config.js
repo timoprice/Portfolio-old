@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Tim Price, PhD MBA | User Experience Researcher & Strategist`,
     // Description that goes under your name in main bio
-    description: `User Experience researcher & strategist** from Austin, TX, with a background in ethnographic research, education, business administration, and digital experience design.`,
+    description: `User Experience researcher & strategist from Austin, TX, with a background in ethnographic research, education, business administration, and digital experience design.`,
     // Optional: Twitter account handle
     author: ``,
     // Optional: Github account URL
@@ -15,10 +15,10 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/timoprice/`,
     // Content of the About Me section
-    about: `
-      I am constantly learning—especially about what makes people tick. When I travel, I'd rather avoid the tourist traps and instead go out to the suburbs to see how people really live.
-      I enjoy working with people from a variety of professional and cultural backgrounds to collaborate on innovating and creating products and experiences. I've spent nearly a decade living in countries abroad, which has greatly influenced my worldview and ability to empathize and communicate with others.
-      I'm a teacher at heart and get fulfillment from mentoring others to grow professionally.`,
+    about:
+     `I am constantly learning—especially about what makes people tick. When I travel, I'd rather avoid the tourist traps and instead go out to the suburbs to see how people really live.`
+     `I enjoy working with people from a variety of professional and cultural backgrounds to collaborate on innovating and creating products and experiences. I've spent nearly a decade living in countries abroad, which has greatly influenced my worldview and ability to empathize and communicate with others.`
+     `I'm a teacher at heart and get fulfillment from mentoring others to grow professionally.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     
     /*
