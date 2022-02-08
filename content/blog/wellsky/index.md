@@ -3,8 +3,6 @@ title: WellSky Nursing App
 description: 'Usability testing a new mobile experience'
 ---
 
-![Test in progress](./test-3up.png)
-
 # Context
 
 Usability testing SaaS software differs greatly from e-commerce sites. It doesn't involve optimizing content or button placement.
@@ -24,6 +22,8 @@ The mobile UI we tested was a
 - and thus have unreliable internet connections.
 
 The app thus needed to have both online and offline functions.
+
+![Test in progress](./test-3up.png)
 
 ## Task
 
