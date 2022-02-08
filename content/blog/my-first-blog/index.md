@@ -1,58 +1,44 @@
 ---
-title: My First Blog Post
-date: '2020-09-20T12:00:00.00Z'
-description: 'test test test'
+title: American Red Cross | Personas & Journey Mapping
+//date: '2020-09-20T12:00:00.00Z'
+description: 'Bringing the American Red Cross website in line with visitor expectations'
 ---
 
-## test test test1
+## Action
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
+### Method
+
+1. Conduct a true intent survey to identify visitor and donor personas
+2. Identify common and distinct persona motivations, expectations and pain points
+3. Use the above to create a content strategy that speaks to each persona
+
+## Result
+
+### Outcome
+
+- Researched and createed **user journeys** through the site, reducing friction along the marketing funnel
+- Unified the **information architecture + content strategy** across the three organizational divisions' websites
+- Created processes and guidance materials for ongoing **content governance**
+
+### Notes
+
+In addition to site strategy, my team an I created page content and visuals for core pages to serve a models for the Red Cross content team.
+
+## Business Impact
+
+#### Decreased operational costs
+
+By reducing the need to maintain unproductive pages that didn't convert. We reduced 100,000+ pages to a set of fewer than 500. To date, the systems and recommendations we provided are [still in use](https://www.redcross.org/).
+
+#### Increased revenue
+
+The American Red Cross derives its revenue from donations (blood, money, and time). Increased donations correlate closely with disasters. Timely, relevant news about disasters and humantiarian aid was shown to motivate visitors. Beyond this, we leveraged the personas and journey maps to reduce friction along the marketing funnel toward the shopping cart.
+
+#### Increased brand value
+
+By unifying 3 disparate organization-centric sites into a single visitor-focused offering with a common set of user journeys.
+
+## Samples
+
 
 ![Mountain](./mountain.jpg)
-
-Aliquam aliquid rem facere dolorum consectetur consequatur distinctio [mollitia id modi repellendus](https://github.com/RyanFitzgerald/devfolio) vero quae dolorem commodi soluta voluptates iusto nobis est dolore provident, porro veritatis placeat nemo impedit! Asperiores culpa delectus hic qui saepe, ipsum quia, exercitationem repellendus magni soluta sit suscipit laborum ducimus.
-
-## Asperiores culpa delectus hic qui saepe
-
-### Facere labore velit ad autem
-
-Vitae veritatis quae eius quis vel soluta cumque? Facere labore velit ad autem. Nisi recusandae ducimus molestiae error ipsa quaerat, dignissimos suscipit similique itaque sunt provident quasi minus ut porro. Optio modi harum _dolore necessitatibus exercitationem_ blanditiis magni error ipsum, odit deleniti eligendi facilis, nesciunt delectus sit nostrum porro quam accusamus excepturi labore sequi maiores soluta?
-
-### Porro veritatis placeat nemo impedit
-
-Veritatis et praesentium totam neque earum commodi nesciunt dolor quibusdam incidunt non, ex dicta molestias omnis maiores, maxime velit perferendis tenetur aut porro nostrum, suscipit soluta necessitatibus deserunt nobis. Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.
-
-> Repudiandae iusto et iure pariatur aliquid, quisquam, non sed culpa, dignissimos recusandae facilis. Debitis hic, quaerat recusandae ad id, quis nisi perspiciatis quo aliquid natus similique.
-
-Illum esse recusandae facere ipsam fugiat est eaque ducimus facilis provident, distinctio cum aut corporis officiis quo fugit, similique temporibus inventore quidem tempora commodi saepe dicta! Numquam fugiat quibusdam aut ut, voluptatibus accusamus **repellendus quas minus consequuntur** possimus! Est eaque nesciunt, reiciendis voluptate placeat aspernatur doloremque unde cum et architecto suscipit quam facere corrupti nihil odit eum minima voluptatem nobis.
-
-## Voluptatibus accusamus repellendus quas minus
-
-Ipsum quod, ut animi mollitia ipsam repellat, dolore voluptate quibusdam quasi reiciendis necessitatibus odio ea nostrum illo explicabo? Ducimus, in repudiandae. Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat atque aperiam, praesentium eligendi! Sed voluptas voluptatem sunt distinctio pariatur ullam? Laudantium laboriosam.
-
-- Numquam fugiat quibusdam aut ut
-- Soluta necessitatibus deserunt nobis
-- Illum esse recusandae facere ipsam
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus.
-
-1. Numquam fugiat quibusdam aut ut
-2. Soluta necessitatibus deserunt nobis
-3. Illum esse recusandae facere ipsam
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
-
-## Suscipit soluta necessitatibus deserunt nobi
-
-Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.
-
-```js
-const helloWorld = (name = 'World') => {
-  return `Hello ${name}!`;
-};
-
-helloWorld();
-helloWorld('John Doe');
-```
-
-Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!
