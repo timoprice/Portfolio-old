@@ -63,6 +63,6 @@ Replatforming to AEM thus provided the perfect to redesign the way the Red Cross
 
 # Deliverables
 
-[test](../../asdf)
+[test](../../asdf/)
 
 © Timothy Price, PhD MBA
