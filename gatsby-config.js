@@ -40,7 +40,7 @@ module.exports = {
         //link: '',
       },
       {
-        name: 'WellSky,
+        name: 'WellSky',
         description: 'User Experience Research and Operations Manager, Mar 2019 - Jun 2021',
         //link: 'https://www.venafi.com',
       },
