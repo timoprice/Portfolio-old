@@ -1,10 +1,13 @@
-# Modernizing an aging web presence
+---
+title: American Red Cross
+description: 'Modernizing an ageing website'
+---
 
 # Situation
 
-Prior to engaging us, the [American Red Cross website](https://www.redcross.org/) consisted of three different platforms built hodgepodge over 15+ years. Any attempts at standardizing content, design, and information architecture had long since been abandoned.
+Prior to engaging us, the [American Red Cross website](https://www.redcross.org/) consisted of three different platforms built hodgepodge over 15+ years. All previous attempts to standardize content, design, and information architecture had long since been abandoned.
 
-As we worked with the Red Cross to move the content from the old to a new AEM platform, it became clear that the assumed "lift-and-shift" model was not feasible, since the pages were not well structured. It was simply not possible to convert unstructured content into AEM's highly structured system requirement.
+As we worked move the content from the old to a new AEM platform, it became clear that the assumed "lift-and-shift" model was not feasible. The pages on the old site were simply not well structured, making it impossible to replatform it to AEM's highly structured requirements.
 
 Recognizing this internally was one thing. Providing evidence to help the client recognize the impact of the issue was a matter of delving into research.
 
