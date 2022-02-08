@@ -65,9 +65,16 @@ This also saved on potential rework and the costs associated with it.
 
 Finally, since the product and dev team had spent nearly six months going back and forth on what would be useful and usable to the client, the fact that this test fast-tracked the rest of the project into 2 weeks meant both saved costs and served as an example of what UX principles and processes can do for the rest of the company's product initiatives.
 
+Task errors
 ![Task errors](./errors.png)
+
+Success metrics
 ![Success metrics](./success.png)
+
+Usability metrics
 ![Usability metrics](./sus.png)
+
+Satisfaction metrics
 ![Product NPS](./pnps.png)
 
 ## Full Report
