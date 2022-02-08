@@ -41,3 +41,16 @@ By unifying 3 disparate organization-centric sites into a single visitor-focused
 
 
 ![Journey Map](./re_journey.png)
+![Donation Experiene](donation-experience.png)
+![Governance](governance.png)
+![North Star 1](north-stars-1.png)
+![North Star 2](north-stars-2.png)
+![North Star 3](north-stars-3.png)
+![Persona 1](persona-1.png)
+![Persona 2](persona-2.png)
+![Persona 3](persona-3.png)
+![Journey Map](rc_journey.png)
+![True Intent](true-intent.png)
+![Usability Issues](usability-issues.png)
+![Volunteer Possibilities](volunteer-possibilities.png)
+![Website Issues](website-issues.png)
