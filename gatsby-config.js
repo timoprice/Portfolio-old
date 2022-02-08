@@ -9,11 +9,11 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `User Experience researcher & strategist** from Austin, TX, with a background in ethnographic research, education, business administration, and digital experience design.`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    //author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    //github: `https://github.com/ryanfitzgerald`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/timoprice/`,
     // Content of the About Me section
     about: `
       I am constantly learning—especially about what makes people tick. When I travel, I'd rather avoid the tourist traps and instead go out to the suburbs to see how people really live.
