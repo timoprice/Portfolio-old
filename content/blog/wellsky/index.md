@@ -3,7 +3,7 @@ title: WellSky Nursing App
 description: 'Usability testing a new mobile experience'
 ---
 
-# Context
+# Synopsis
 
 Usability testing SaaS software differs greatly from e-commerce sites. It doesn't involve optimizing content or button placement.
 
@@ -12,8 +12,6 @@ Usability testing medical software is another beast altogether. I liken it to us
 Part of the UX research team's mandate is to guide the product and engineering teams on how to become more lean.
 
 This means making smaller bets—2–4 week build-test-learn cycles instead of 6–12 month bets. Cutting down such a massive product into testable chunks required constant cooperation with product and engineering teammates to find the most valuable pieces to tackle testing and innovating first. This project involved testing one of these chunks.
-
-## Product
 
 The mobile UI we tested was a 
 
@@ -25,7 +23,7 @@ The app thus needed to have both online and offline functions.
 
 ![Test in progress](./test-3up.png)
 
-## Task
+## Tasks
 
 The team wanted to test the participants' ability of participants to 
 
@@ -37,25 +35,40 @@ The team wanted to test the participants' ability of participants to
 - update the patient health record
 - track time and mileage
 
-# Action
-
-## Method
+# Method
 
 In-lab, semi-structured workflow usability test. NB: This was the inaugural study in the company's UX lab that my manager and I designed and had built.
 
-## Goal
+# Goal
 
 We identified workflows that participants were able to navigate successfully, and those that they weren't.
 
-# Synopsis of Deliverables
+# Conclusion
 
-Preparation work
-![Study Prep](./study-prep.png)
-
-Study conclusion
 ![Takeaways](./takeaways.png)
 
-## Details
+
+# Business Impact
+
+Moving the product from an aged desktop application to a mobile app both keeps a key client and opens up the market for other multi-million dollar deals.
+
+**Increase customer revenue**
+The mobile application reduces the time nurses spend in the patient's driveway writing up medical notes and typing these up after-hours at home. This frees them up to schedule an additional patient every day. This increases the overall revenue of the client health agency's business, as well as giving the nurses their evenings back.
+
+**Decrease operational costs**
+The mobile app automatically tracks the nurses' travel time and distance, reporting it back to an automated system that connects to the health agency's billing system. This decreases the need for back-office staff to enter the data manually.
+
+**Increase revenue from new business**
+The mobile platform enables WellSky to extend into the total addressable home healthcare market (TAM), which is worth ~$5B.
+
+**Increase revenue from existing business**
+The mobile platform enabled the company to upsell to our current client. The deal based in part on this study was worth ~$5M. 
+
+**Improved brand equity**
+Involving the client in the design process through lab usability testing both impressed them and enhanced their commitment to maintain a relationship with us.
+
+
+# Details
 
 This was the first usability test (remote or live) that developers were involved with. It went over extremely well and created a landslide of excitement and desire amongst other teams. 
 
@@ -79,25 +92,5 @@ Usability metrics
 Satisfaction metrics
 ![Product NPS](./pnps.png)
 
-## Full Report
-
 [Full report](https://drive.google.com/file/d/186dzmp_MfC5IAkqYacJigjxm0HBLxoO3/preview)
 
-# Business Impact
-
-Moving the product from an aged desktop application to a mobile app both keeps a key client and opens up the market for other multi-million dollar deals.
-
-**Increase customer revenue**
-The mobile application reduces the time nurses spend in the patient's driveway writing up medical notes and typing these up after-hours at home. This frees them up to schedule an additional patient every day. This increases the overall revenue of the client health agency's business, as well as giving the nurses their evenings back.
-
-**Decrease operational costs**
-The mobile app automatically tracks the nurses' travel time and distance, reporting it back to an automated system that connects to the health agency's billing system. This decreases the need for back-office staff to enter the data manually.
-
-**Increase revenue from new business**
-The mobile platform enables WellSky to extend into the total addressable home healthcare market (TAM), which is worth ~$5B.
-
-**Increase revenue from existing business**
-The mobile platform enabled the company to upsell to our current client. The deal based in part on this study was worth ~$5M. 
-
-**Improved brand equity**
-Involving the client in the design process through lab usability testing both impressed them and enhanced their commitment to maintain a relationship with us.
