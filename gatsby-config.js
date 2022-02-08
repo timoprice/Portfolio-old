@@ -21,7 +21,6 @@ module.exports = {
      `I'm a teacher at heart and get fulfillment from mentoring others to grow professionally.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     
-    /*
     projects: [
       {
         name: 'Devfolio',
@@ -42,7 +41,6 @@ module.exports = {
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
-    */
     
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
