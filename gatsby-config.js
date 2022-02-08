@@ -42,32 +42,32 @@ module.exports = {
       {
         name: 'WellSky,
         description: 'User Experience Research and Operations Manager, Mar 2019 - Jun 2021',
-        //link: '',
+        //link: 'https://www.venafi.com',
       },
       {
         name: 'Boncom',
         description: 'Senior User Experience Strategist, Oct 2017 - Mar 2019',
-        link: '',
+        link: 'https://www.boncom.com/',
       },
       {
         name: 'Axis41 (now part of Merkle Inc.)',
         description: 'Senior User Experience Strategist, Dec 2015 - Oct 2017',
-        link: '',
+        link: 'https://dx.merkleinc.com/',
       },
       {
         name: 'Bavarian Academy of Sciences',
         description: 'User Experience Architect, Oct 2013 - Jan 2015',
-        link: '',
+        link: 'https://badw.de/die-akademie.html',
       },
       {
         name: 'Digital Humanities Hessen',
         description: 'User Experience Designer, May 2011 - Oct 2013',
-        link: '',
+        link: 'http://digital-humanities-hessen.de/',
       },
       {
         name: 'University of California, Berkeley',
         description: 'Ethnographic Researcher, Aug 2033 - May 2011',
-        link: '',
+        link: 'https://german.berkeley.edu/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
