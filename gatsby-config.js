@@ -9,9 +9,9 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `User Experience researcher & strategist** from Austin, TX, with a background in ethnographic research, education, business administration, and digital experience design.`,
     // Optional: Twitter account handle
-    //author: `@rfitzio`,
+    author: ``,
     // Optional: Github account URL
-    //github: `https://github.com/ryanfitzgerald`,
+    github: ``,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/timoprice/`,
     // Content of the About Me section
