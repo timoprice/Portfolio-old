@@ -40,4 +40,4 @@ By unifying 3 disparate organization-centric sites into a single visitor-focused
 ## Samples
 
 
-![Mountain](./mountain.jpg)
+![Journey Map](./re_journey.png)
