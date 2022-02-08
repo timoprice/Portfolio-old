@@ -35,22 +35,43 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Venafi',
+        description: 'Head of User Research and Innovation, Jun 2021 - Present',
+        //link: '',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'WellSky,
+        description: 'User Experience Research and Operations Manager, Mar 2019 - Jun 2021',
+        //link: '',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Boncom',
+        description: 'Senior User Experience Strategist, Oct 2017 - Mar 2019',
+        link: '',
+      },
+      {
+        name: 'Axis41 (now part of Merkle Inc.)',
+        description: 'Senior User Experience Strategist, Dec 2015 - Oct 2017',
+        link: '',
+      },
+      {
+        name: 'Bavarian Academy of Sciences',
+        description: 'User Experience Architect, Oct 2013 - Jan 2015',
+        link: '',
+      },
+      {
+        name: 'Digital Humanities Hessen',
+        description: 'User Experience Designer, May 2011 - Oct 2013',
+        link: '',
+      },
+      {
+        name: 'University of California, Berkeley',
+        description: 'Ethnographic Researcher, Aug 2033 - May 2011',
+        link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
+    /*
     skills: [
       {
         name: 'Languages & Frameworks',
@@ -67,6 +88,7 @@ module.exports = {
           'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
       },
     ],
+    */
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
