@@ -23,6 +23,16 @@ The app thus needed to have both online and offline functions.
 
 ![Test in progress](./test-3up.png)
 
+
+## Goal
+
+Identifiy workflows that participants were able to navigate successfully and those that they weren't.
+
+
+## Method
+
+In-lab, semi-structured workflow usability test. NB: This was the inaugural study in the company's UX lab that my manager and I designed and had built.
+
 ## Tasks
 
 The team wanted to test the participants' ability of participants to 
@@ -35,20 +45,13 @@ The team wanted to test the participants' ability of participants to
 - update the patient health record
 - track time and mileage
 
-# Method
-
-In-lab, semi-structured workflow usability test. NB: This was the inaugural study in the company's UX lab that my manager and I designed and had built.
-
-# Goal
-
-We identified workflows that participants were able to navigate successfully, and those that they weren't.
 
 # Conclusion
 
 ![Takeaways](./takeaways.png)
 
 
-# Business Impact
+## Business Impact
 
 Moving the product from an aged desktop application to a mobile app both keeps a key client and opens up the market for other multi-million dollar deals.
 
@@ -68,7 +71,7 @@ The mobile platform enabled the company to upsell to our current client. The dea
 Involving the client in the design process through lab usability testing both impressed them and enhanced their commitment to maintain a relationship with us.
 
 
-# Details
+## Details
 
 This was the first usability test (remote or live) that developers were involved with. It went over extremely well and created a landslide of excitement and desire amongst other teams. 
 
