@@ -3,9 +3,9 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Tim Price, PhD MBA',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Tim Price, PhD MBA | User Experience Researcher & Strategist`,
     // Description that goes under your name in main bio
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
     // Optional: Twitter account handle
@@ -15,8 +15,13 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I'm a **User Experience researcher & strategist** from Austin, TX, with a background in ethnographic research, education, business administration, and digital experience design.</p>
+      <p>I am constantly learning—especially about what makes people tick. When I travel, I'd rather avoid the tourist traps and instead go out to the suburbs to see how people really live.</p>
+      <p>I enjoy working with people from a variety of professional and cultural backgrounds to collaborate on innovating and creating products and experiences. I've spent nearly a decade living in countries abroad, which has greatly influenced my worldview and ability to empathize and communicate with others.</p>
+      <p>I'm a teacher at heart and get fulfillment from mentoring others to grow professionally.</p>`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
+    
+    /*
     projects: [
       {
         name: 'Devfolio',
@@ -37,6 +42,8 @@ module.exports = {
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
+    */
+    
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
