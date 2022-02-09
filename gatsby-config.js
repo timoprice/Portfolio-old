@@ -68,7 +68,7 @@ module.exports = {
       },
       {
         name: 'University of California, Berkeley',
-        description: 'Ethnographic Researcher, Aug 2033–May 2011',
+        description: 'Ethnographic Researcher, Aug 2003–May 2011',
         link: 'https://german.berkeley.edu/',
       },
     ],
