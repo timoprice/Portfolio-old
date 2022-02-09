@@ -24,7 +24,7 @@ const BlogPost = ({ data }) => {
         className={classes.wrapper}
         dangerouslySetInnerHTML={{ __html: post.html }}
       />
-      <div>
+      <div class='pb-6 md:w-full md:max-w-150 md:p-0'>
         <p class='font-light font-xs text-sm text-gray-600 leading-normal'>© Timothy Price (2022)</p>
       </div>
     </Layout>
