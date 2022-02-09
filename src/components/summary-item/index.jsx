@@ -17,15 +17,13 @@ const SummaryItem = ({ name, description, link = false, internal = false }) => {
 
   return (
     <div className={classes.wrapper}>
-      <h3>
-        <p className={classes.name}>{description}</p>
-      </h3>
-      <p
+      <h3
           className={`${classes.description} ${
           link ? 'hover:underline hover:text-black' : ''
         }`}
         {link ? linkContent : name}
-      </p>
+      </h3>
+      <p className={classes.name}>{description}</p>
     </div>
   );
 };
