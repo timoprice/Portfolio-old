@@ -20,7 +20,7 @@ const Index = ({ data }) => {
       <SEO title="Blog" />
       <Header metadata={data.site.siteMetadata} />
       {!noBlog && <BlogPosts posts={posts} />}
-      <div>
+      <div class="block pt-12 md:flex">
         <p class='font-light font-xs text-sm text-gray-600 leading-normal'>© Timothy Price (2022)</p>
       </div>
     </Layout>
