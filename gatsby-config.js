@@ -72,8 +72,8 @@ module.exports = {
         link: 'https://german.berkeley.edu/',
       },
       {
-        description: '',
-        name: 'Full Resume',
+        description: 'Full Resume',
+        name: 'View PDF',
         link: 'https://drive.google.com/file/d/16xnp2OnGxbfoq1q2YgYZPV6uUEam6ESE/view?usp=sharing',
       },
     ],
