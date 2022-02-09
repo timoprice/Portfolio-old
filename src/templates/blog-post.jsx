@@ -18,7 +18,6 @@ const BlogPost = ({ data }) => {
   return (
     <Layout>
       <Header metadata={data.site.siteMetadata} />
-      <SEO title={post.frontmatter.title} />
       <h1 className={classes.title}>{post.frontmatter.title}</h1>
       <div
         className={classes.wrapper}
