@@ -67,8 +67,8 @@ module.exports = {
         link: 'http://digital-humanities-hessen.de/',
       },
       {
-        name: 'University of California, Berkeley',
         description: 'Ethnographic Researcher, Aug 2003–May 2011',
+        name: 'University of California, Berkeley',
         link: 'https://german.berkeley.edu/',
       },
       {
