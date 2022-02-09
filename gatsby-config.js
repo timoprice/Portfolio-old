@@ -71,7 +71,6 @@ module.exports = {
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
-    /*
     skills: [
       {
         name: 'Languages & Frameworks',
@@ -88,7 +87,6 @@ module.exports = {
           'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
       },
     ],
-    */
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
