@@ -7,6 +7,9 @@ const SectionAbout = ({ about }) => {
     <Section title="About Me">
       <div className="mb-6">
         <p>{about}</p>
+        <p>{about2}</p>
+        <p>{about3}</p>
+        <p>{about4}</p>
       </div>
     </Section>
   );
