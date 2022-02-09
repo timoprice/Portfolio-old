@@ -4,7 +4,7 @@ import React from 'react';
 
 import Header from '../components/header';
 import Layout from '../components/layout';
-import SEO from '../components/seo';
+//import SEO from '../components/seo';
 
 const classes = {
   wrapper: 'mt-16 blog-content',
