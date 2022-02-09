@@ -73,6 +73,11 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
+        name: 'Leadership',
+        description:
+          'ROI discovery, Mentoring, Effective Communication, Empathy',
+      },
+      {
         name: 'Research',
         description:
           'Ethnographic Studies, (Remote) Usability Testing, (Un)Moderated Studies, Surveys, Behavioral Analytics, Competitive Analysis',
