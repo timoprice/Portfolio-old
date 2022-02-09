@@ -3,6 +3,9 @@ title: American Red Cross
 description: 'Modernizing an ageing website'
 ---
 
+Under construction. For now, please see [red cross project](https://timoprice.notion.site/Modernizing-an-aging-web-presence-4c7678cbd94c42d981331db97a235441).
+
+<!--
 # Situation
 
 Prior to engaging us, the [American Red Cross website](https://www.redcross.org/) consisted of three different platforms built hodgepodge over 15+ years. All previous attempts to standardize content, design, and information architecture had long since been abandoned.
@@ -66,3 +69,5 @@ Replatforming to AEM thus provided the perfect to redesign the way the Red Cross
 [test](../../asdf/index.md)
 
 © Timothy Price, PhD MBA
+
+-->
