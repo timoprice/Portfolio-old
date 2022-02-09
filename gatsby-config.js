@@ -36,39 +36,39 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Venafi, Jun 2021–Present',
         description: 'Head of User Research & Innovation',
+        name: 'Venafi, Jun 2021–Present',
         link: 'https://www.venafi.com',
       },
       {
-        name: 'WellSky, Mar 2019–Jun 2021',
         description: 'User Experience Research & UXOps Manager',
+        name: 'WellSky, Mar 2019–Jun 2021',
         link: 'https://www.wellsky.com',
       },
 /*      {
-        name: 'Boncom, Oct 2017–Mar 2019',
         description: 'User Experience Strategist',
+        name: 'Boncom, Oct 2017–Mar 2019',
         link: 'https://www.boncom.com/',
       },
       {
-        name: 'Axis41 (now Merkle), Dec 2015–Oct 2017',
         description: 'User Experience Strategist',
+        name: 'Axis41 (now Merkle), Dec 2015–Oct 2017',
         link: 'https://dx.merkleinc.com/',
       },
       {
-        name: 'Bavarian Academy of Sciences, Oct 2013–Jan 2015',
         description: 'Computational Researcher',
+        name: 'Bavarian Academy of Sciences, Oct 2013–Jan 2015',        
         link: 'https://badw.de/die-akademie.html',
       },
 */
       {
-        name: 'Digital Humanities Hessen, May 2011–Oct 2013',
         description: 'Computational Researcher',
+        name: 'Digital Humanities Hessen, May 2011–Oct 2013',
         link: 'http://digital-humanities-hessen.de/',
       },
       {
-        description: 'Ethnographic Researcher, Aug 2003–May 2011',
-        name: 'University of California, Berkeley',
+        description: 'Ethnographic Researcher',
+        name: 'University of California, Berkeley, Aug 2003–May 2011',
         link: 'https://german.berkeley.edu/',
       },
       {
