@@ -30,7 +30,7 @@ const Index = ({ data }) => {
         <SectionExperience experience={experience} />
       )}
       {skills && skills.length && <SectionSkills skills={skills} />}
-      <div>
+      <div class="block pt-12 md:flex">
         <p class='font-light font-xs text-sm text-gray-600 leading-normal'>© Timothy Price (2022)</p>
       </div>
     </Layout>
