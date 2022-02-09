@@ -30,6 +30,9 @@ const Index = ({ data }) => {
         <SectionExperience experience={experience} />
       )}
       {skills && skills.length && <SectionSkills skills={skills} />}
+      <div>
+        <p>© Timothy Price (2022)</p>
+      </div>
     </Layout>
   );
 };
