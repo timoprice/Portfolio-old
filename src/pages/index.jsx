@@ -31,7 +31,7 @@ const Index = ({ data }) => {
       )}
       {skills && skills.length && <SectionSkills skills={skills} />}
       <div>
-        <p class='font-light'>© Timothy Price (2022)</p>
+        <p class='font-light font-xs text-sm text-gray-600 leading-normal'>© Timothy Price (2022)</p>
       </div>
     </Layout>
   );
