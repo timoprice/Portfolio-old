@@ -37,12 +37,12 @@ module.exports = {
       {
         name: 'Venafi',
         description: 'Head of User Research and Innovation, Jun 2021 - Present',
-        //link: '',
+        link: 'https://www.venafi.com',
       },
       {
         name: 'WellSky',
         description: 'User Experience Research and Operations Manager, Mar 2019 - Jun 2021',
-        //link: 'https://www.venafi.com',
+        link: 'https://www.wellsky.com',
       },
       {
         name: 'Boncom',
