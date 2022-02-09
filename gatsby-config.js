@@ -71,6 +71,11 @@ module.exports = {
         description: 'Ethnographic Researcher, Aug 2003–May 2011',
         link: 'https://german.berkeley.edu/',
       },
+      {
+        name: 'Full Resume',
+        description: '',
+        link: 'https://drive.google.com/file/d/16xnp2OnGxbfoq1q2YgYZPV6uUEam6ESE/view?usp=sharing',
+      },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     /*
