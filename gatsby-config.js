@@ -15,11 +15,10 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/timoprice/`,
     // Content of the About Me section
-    about:
-     `I have a unique and diverse skill set built from experience in research, web technology, business, and teaching. 
-     I leverage mixed-methods and qualitative research techniques to understand user needs, behaviors, and attitudes, and convert these insights into actionable recommendations. 
-     My experience in ethnographic research enables me to ask the right questions, translate data into consumable stories, and provide metrics on the business value of design decisions. 
-     I enjoy supporting and mentoring others to grow their professional skills.`,
+    about: `I'm a User Experience researcher & strategist from Austin, TX, with a background in ethnographic research, education, business administration, and digital experience design.`
+    about2: `I am constantly learning—especially about what makes people tick. When I travel, I'd rather avoid the tourist traps and instead go out to the suburbs to see how people really live.`
+    about3: `I enjoy working with people from a variety of professional and cultural backgrounds to collaborate on innovating and creating products and experiences. I've spent nearly a decade living in countries abroad, which has greatly influenced my worldview and ability to empathize and communicate with others.`
+    about4: `I'm a teacher at heart and get fulfillment from mentoring others to grow professionally.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     
     /*
