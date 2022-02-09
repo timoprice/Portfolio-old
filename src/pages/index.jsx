@@ -21,7 +21,6 @@ const Index = ({ data }) => {
 
   return (
     <Layout>
-      <SEO />
       <Header metadata={data.site.siteMetadata} noBlog={noBlog} />
       {about && <SectionAbout about={about} />}
       {projects && projects.length && <SectionProjects projects={projects} />}
