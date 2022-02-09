@@ -74,28 +74,24 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Leadership',
-        description:
-          'ROI discovery, Mentoring, Communication',
+      //  name: 'Leadership',
+      //  description: 'ROI discovery, Mentoring, Communication',
       },
       {
-        name: 'Research',
-        description:
-          'Ethnography, Usability Testing, Surveys, Behavioral Analytics, A/B Testing',
+      //  name: 'Research',
+      //  description: 'Ethnography, Usability Testing, Surveys, Behavioral Analytics, A/B Testing',
       },
       {
-        name: 'UX',
-        description: 'Design Sprints, Journey Mapping, Systems Thinking',
+      // name: 'UX',
+      //  description: 'Design Sprints, Journey Mapping, Systems Thinking',
       },
       {
-        name: 'Design',
-        description:
-          'Wireframing, Prototypting, Participatory Design, Information Architecture, Content Strategy',
+      //  name: 'Design',
+      //  description: 'Wireframing, Prototypting, Participatory Design, Information Architecture, Content Strategy',
       },
       {
-        name: 'Languages',
-        description:
-          'German (professional), Romanian (intermediate), Dutch (beginner), Russian (beginner)',
+      //  name: 'Languages',
+      // description: 'German (professional), Romanian (intermediate), Dutch (beginner), Russian (beginner)',
       },
     ],
   },
