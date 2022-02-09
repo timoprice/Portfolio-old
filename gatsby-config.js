@@ -45,7 +45,7 @@ module.exports = {
         description: 'User Experience Research & UXOps Manager, Mar 2019–Jun 2021',
         link: 'https://www.wellsky.com',
       },
-      {
+/*      {
         name: 'Boncom',
         description: 'User Experience Strategist, Oct 2017–Mar 2019',
         link: 'https://www.boncom.com/',
@@ -60,6 +60,7 @@ module.exports = {
         description: 'Computational Researcher, Oct 2013–Jan 2015',
         link: 'https://badw.de/die-akademie.html',
       },
+*/
       {
         name: 'Digital Humanities Hessen',
         description: 'Computational Researcher, May 2011–Oct 2013',
@@ -76,16 +77,16 @@ module.exports = {
       {
         name: 'Leadership',
         description:
-          'ROI discovery, Mentoring, Effective Communication, Empathy',
+          'ROI discovery, Mentoring, Communication',
       },
       {
         name: 'Research',
         description:
-          'Ethnographic Studies, (Remote) Usability Testing, (Un)Moderated Studies, Surveys, Behavioral Analytics, Competitive Analysis',
+          'Ethnography, Usability Testing, Surveys, Behavioral Analytics, A/B Testing',
       },
       {
         name: 'UX',
-        description: 'Design Sprints, Journey Mapping, Information Architecture, Systems Thinking, A/B Testing, Card Sorting',
+        description: 'Design Sprints, Journey Mapping, Systems Thinking',
       },
       {
         name: 'Design',
@@ -95,7 +96,7 @@ module.exports = {
       {
         name: 'Languages',
         description:
-          'German (near native), Romanian (professional), Dutch (beginner), Russian (beginner)',
+          'German (professional), Romanian (intermediate), Dutch (beginner), Russian (beginner)',
       },
     ],
   },
