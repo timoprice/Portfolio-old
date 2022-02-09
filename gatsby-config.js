@@ -56,12 +56,12 @@ module.exports = {
       },
       {
         name: 'Bavarian Academy of Sciences',
-        description: 'User Experience Architect, Oct 2013 - Jan 2015',
+        description: 'Computational Researcher, Oct 2013 - Jan 2015',
         link: 'https://badw.de/die-akademie.html',
       },
       {
         name: 'Digital Humanities Hessen',
-        description: 'User Experience Designer, May 2011 - Oct 2013',
+        description: 'Computational Researcher, May 2011 - Oct 2013',
         link: 'http://digital-humanities-hessen.de/',
       },
       {
