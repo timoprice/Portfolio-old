@@ -3,6 +3,9 @@ title: Road To Success
 description: 'Gamifying reading for k-8th students'
 ---
 
+Under construction. For now, please see [Road To Success Project](https://timoprice.notion.site/Gamifying-student-reading-977412fcc254477ea126fa0df39547a0) on Notion.
+
+<!--
 # Synopsis
 
 [Road To Success](https://rtsutah.com/) (RTS) is an online platform whose goal is to foster literacy and a love of learning in elementary and middle-school students.
@@ -122,3 +125,4 @@ While the original pen-and-paper tracking method was employed primarily to 1–3
 
 **Increase educational value** 
 As the product of a non-profit organization, the shareholders are major donors sitting on the board of trustees. Increasing the effectiveness of the app as measured by engagement and improved reading aptitude tests—particularly in economically distressed areas—are the signs of success. The value of their donations is tied directly to the success of the students. By the second engagement a year later, the benchmark test scores of the students were still being gathered. However, user (student, teacher, parent, administrator) response was highly positive, pointing indirectly to a positive impact on all user personas.
+-->
