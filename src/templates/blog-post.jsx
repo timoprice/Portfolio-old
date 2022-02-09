@@ -4,7 +4,7 @@ import React from 'react';
 
 import Header from '../components/header';
 import Layout from '../components/layout';
-//import SEO from '../components/seo';
+import SEO from '../components/seo';
 
 const classes = {
   wrapper: 'mt-16 blog-content',
@@ -18,6 +18,7 @@ const BlogPost = ({ data }) => {
   return (
     <Layout>
       <Header metadata={data.site.siteMetadata} />
+      <SEO title={post.frontmatter.title} />
       <h1 className={classes.title}>{post.frontmatter.title}</h1>
       <div
         className={classes.wrapper}
