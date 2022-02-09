@@ -20,8 +20,8 @@ module.exports = {
       I am constantly learning—especially about what makes people tick. When I travel, I'd rather avoid the tourist traps and instead go out to the suburbs to see how people really live.  
       I enjoy working with people from a variety of professional and cultural backgrounds to collaborate on innovating and creating products and experiences. I've spent nearly a decade living in countries abroad, which has greatly influenced my worldview and ability to empathize and communicate with others.  
       I'm a teacher at heart and get fulfillment from mentoring others to grow professionally.`,
-    // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     
+    // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     /*
     projects: [
       {
@@ -73,28 +73,29 @@ module.exports = {
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
+    /*
     skills: [
       {
-      //  name: 'Leadership',
-      //  description: 'ROI discovery, Mentoring, Communication',
+        name: 'Leadership',
+        description: 'ROI discovery, Mentoring, Communication',
       },
       {
-      //  name: 'Research',
-      //  description: 'Ethnography, Usability Testing, Surveys, Behavioral Analytics, A/B Testing',
+        name: 'Research',
+        description: 'Ethnography, Usability Testing, Surveys, Behavioral Analytics, A/B Testing',
       },
       {
-      // name: 'UX',
-      //  description: 'Design Sprints, Journey Mapping, Systems Thinking',
+        name: 'UX',
+        description: 'Design Sprints, Journey Mapping, Systems Thinking',
       },
       {
-      //  name: 'Design',
-      //  description: 'Wireframing, Prototypting, Participatory Design, Information Architecture, Content Strategy',
+        name: 'Design',
+        description: 'Wireframing, Prototypting, Participatory Design, Information Architecture, Content Strategy',
       },
       {
-      //  name: 'Languages',
-      // description: 'German (professional), Romanian (intermediate), Dutch (beginner), Russian (beginner)',
+        name: 'Languages',
+        description: 'German (professional), Romanian (intermediate), Dutch (beginner), Russian (beginner)',
       },
-    ],
+    ],*/
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
