@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
         viewBox="0 0 404 784"
       >
         <defs>
-<!--          <pattern
+          <pattern
             id="5d0dd344-b041-4d26-bec4-8d33ea57ec9b"
             x="0"
             y="0"
@@ -33,12 +33,12 @@ const Layout = ({ children }) => {
               className="text-gray-200"
               fill="#edf2f7"
             />
--->          </pattern>
+          </pattern>
         </defs>
         <rect
           width="404"
           height="784"
-          fill="url(#5d0dd344-b041-4d26-bec4-8d33ea57ec9b)"
+          //fill="url(#5d0dd344-b041-4d26-bec4-8d33ea57ec9b)"
         />
       </svg>
       <div className={classes.wrapper}>{children}</div>
