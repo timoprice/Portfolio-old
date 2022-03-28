@@ -12,10 +12,11 @@ const SectionProjects = ({ projects }) => {
         <SummaryItem
           key={project.name}
           name={project.name}
-    <b>Link:</b>
+        />
+       <p>Link: 
           description={project.description}
           link={project.link}
-        />
+        </p>
       ))}
     </Section>
   );
