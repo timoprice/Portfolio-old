@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 @layer base {
+  /* unvisited link */
+  a:link {
+    color: green;
+  }
+  
   .blog-content {
     @apply text-gray-600;
     @apply max-w-screen-md;
