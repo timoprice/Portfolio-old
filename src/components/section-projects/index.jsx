@@ -11,12 +11,9 @@ const SectionProjects = ({ projects }) => {
       {projects.map((project) => (
         <SummaryItem
           key={project.name}
-          name={project.name}
-        />
-       <p>Link: 
+          name={project.name}       
           description={project.description}
           link={project.link}
-        </p>
       ))}
     </Section>
   );
