@@ -4,9 +4,10 @@
 
 @layer base {
   /* unvisited link */
-  a:link {
+  p a:link {
     text-decoration: underline;
   }
+  h1 
   
   .blog-content {
     @apply text-gray-600;
