@@ -5,7 +5,7 @@
 @layer base {
   /* unvisited link */
   a:link {
-    color: green;
+    text-decoration: underline;
   }
   
   .blog-content {
