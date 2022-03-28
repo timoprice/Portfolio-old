@@ -3,7 +3,7 @@ description: WellSky
 title: 'Usability testing a new mobile app for field nurses'
 ---
 
-Under construction. For now, pealse see [WellSky Project](https://timoprice.notion.site/Testing-a-mobile-nursing-app-s-usability-da703d91c8e84e489480b37494d7e073) on Notion.
+Under construction. For now, please see [WellSky Project](https://timoprice.notion.site/Testing-a-mobile-nursing-app-s-usability-da703d91c8e84e489480b37494d7e073) on Notion.
 
 <!--
 # Synopsis
