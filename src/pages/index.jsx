@@ -31,7 +31,7 @@ const Index = ({ data }) => {
       )}
       {skills && skills.length && <SectionSkills skills={skills} />}
       <div class="block pt-12 md:flex">
-        <p class='font-light font-xs text-sm text-gray-600 leading-normal'>© Timothy Price (2022)</p>
+        <p class='font-light font-xs text-sm text-gray-600 leading-normal'>© Timothy Price (2023)</p>
       </div>
     </Layout>
   );
