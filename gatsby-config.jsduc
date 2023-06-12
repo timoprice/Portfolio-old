@@ -77,22 +77,7 @@ module.exports = {
         link: 'https://drive.google.com/file/d/16xnp2OnGxbfoq1q2YgYZPV6uUEam6ESE/view?usp=sharing',
       },
 */
-    ],
-    // Optional: List your education, they must have `name` and `description`.
-    education: [
-      {
-        name: 'PhD, Linguistics',
-        description: 'University of California, Berkeley. 2010',
-      },
-      {
-        name: 'MBA',
-        description: 'Rotterdam School of Management, Erasmus University. 2016',
-      },
-      {
-        name: 'BA, Linguistics',
-        description: 'BYU, 2003',
-      },
-    ],
+
         // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
