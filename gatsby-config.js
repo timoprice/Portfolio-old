@@ -38,52 +38,63 @@ module.exports = {
       {
         description: 'Head of User Research & Innovation',
         name: 'Venafi (Jun 2021–Present)',
-        link: 'https://www.venafi.com',
+        /*link: 'https://www.venafi.com',*/
       },
       {
-        description: 'User Experience Research & UXOps Manager',
+        description: 'Princial User Experience Researcher',
         name: 'WellSky (Mar 2019–Jun 2021)',
-        link: 'https://www.wellsky.com',
+        /*link: 'https://www.wellsky.com',*/
       },
-/*      {
+      {
         description: 'User Experience Strategist',
         name: 'Boncom (Oct 2017–Mar 2019)',
-        link: 'https://www.boncom.com/',
+        /*link: 'https://www.boncom.com/',*/
       },
       {
         description: 'User Experience Strategist',
-        name: 'Axis41 (now Merkle) (Dec 2015–Oct 2017)',
-        link: 'https://dx.merkleinc.com/',
+        name: 'Axis4/Merkle (Dec 2015–Oct 2017)',
+        /*link: 'https://dx.merkleinc.com/',*/
       },
       {
-        description: 'Computational Researcher',
+        description: 'Developer',
         name: 'Bavarian Academy of Sciences (Oct 2013–Jan 2015)',
-        link: 'https://badw.de/die-akademie.html',
+        /*link: 'https://badw.de/die-akademie.html',*/
       },
-*/
       {
         description: 'Computational Researcher',
-        name: 'Digital Humanities Hessen (May 2011–Oct 2013)',
-        link: 'http://digital-humanities-hessen.de/',
+        name: 'Goethe University Frankfurt (May 2011–Oct 2013)',
+        /*link: 'http://digital-humanities-hessen.de/',*/
       },
       {
         description: 'Ethnographic Researcher',
         name: 'University of California, Berkeley (Aug 2003–May 2011)',
-        link: 'https://german.berkeley.edu/',
+        /*link: 'https://german.berkeley.edu/',*/
       },
+/*
       {
         description: 'Full Resume',
         name: 'View PDF',
         link: 'https://drive.google.com/file/d/16xnp2OnGxbfoq1q2YgYZPV6uUEam6ESE/view?usp=sharing',
       },
+*/
     ],
     // Optional: List your skills, they must have `name` and `description`.
-    /*
     skills: [
       {
-        name: 'Leadership',
-        description: 'ROI discovery, Mentoring, Communication',
+        name: 'PhD, Linguistics',
+        description: 'University of California, Berkeley. 2010',
       },
+      {
+        name: 'MBA',
+        description: 'Rotterdam School of Management, Erasmus University. 2016',
+      },
+      {
+        name: 'BA, Linguistics',
+        description: 'BYU, 2003',
+      },
+    ],
+        // Optional: List your skills, they must have `name` and `description`.
+    skills: [
       {
         name: 'Research',
         description: 'Ethnography, Usability Testing, Surveys, Behavioral Analytics, A/B Testing',
@@ -100,7 +111,7 @@ module.exports = {
         name: 'Languages',
         description: 'German (professional), Romanian (intermediate), Dutch (beginner), Russian (beginner)',
       },
-    ],*/
+    ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
